@@ -1,0 +1,2 @@
+This is my first words in this file. 
+Hopefully in a couple of months I can finish TOP and become a full-stack developer in approx a year.
